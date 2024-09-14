@@ -15,5 +15,3 @@ Este sistema permite a los usuarios seleccionar un conductor, un autobús y una 
 - **Windows Forms**
 - **SQL Server**
 
-## Instalación
-
